@@ -1,1 +1,0 @@
-# clusterkit-dash-workshop
